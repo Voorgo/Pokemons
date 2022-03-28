@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Voorgo/Pokemons.git/static/css/main.f2f987c0.css",
+    "main.js": "/Voorgo/Pokemons.git/static/js/main.fb3f3146.js",
+    "index.html": "/Voorgo/Pokemons.git/index.html",
+    "main.f2f987c0.css.map": "/Voorgo/Pokemons.git/static/css/main.f2f987c0.css.map",
+    "main.fb3f3146.js.map": "/Voorgo/Pokemons.git/static/js/main.fb3f3146.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2f987c0.css",
+    "static/js/main.fb3f3146.js"
+  ]
+}
