@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Voorgo/Pokemons.git/static/css/main.f2f987c0.css",
-    "main.js": "/Voorgo/Pokemons.git/static/js/main.fb3f3146.js",
-    "index.html": "/Voorgo/Pokemons.git/index.html",
-    "main.f2f987c0.css.map": "/Voorgo/Pokemons.git/static/css/main.f2f987c0.css.map",
-    "main.fb3f3146.js.map": "/Voorgo/Pokemons.git/static/js/main.fb3f3146.js.map"
+    "main.css": "/Pokemons/static/css/main.f2f987c0.css",
+    "main.js": "/Pokemons/static/js/main.818df5e0.js",
+    "index.html": "/Pokemons/index.html",
+    "main.f2f987c0.css.map": "/Pokemons/static/css/main.f2f987c0.css.map",
+    "main.818df5e0.js.map": "/Pokemons/static/js/main.818df5e0.js.map"
   },
   "entrypoints": [
     "static/css/main.f2f987c0.css",
-    "static/js/main.fb3f3146.js"
+    "static/js/main.818df5e0.js"
   ]
 }
